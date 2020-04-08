@@ -1,0 +1,27 @@
+{
+  "demoApplicationApp": {
+    "jobHistory": {
+      "home": {
+        "title": "Job Histories",
+        "createLabel": "Ստեղծել նոր Job History",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Job History",
+        "notFound": "No Job Histories found"
+      },
+      "created": "Նոր Job History ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Job History թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Job History հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Job History {{ id }}?"
+      },
+      "detail": {
+        "title": "Job History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "language": "Language",
+      "job": "Job",
+      "department": "Department",
+      "employee": "Employee"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "demoApplicationApp": {
+    "job": {
+      "home": {
+        "title": "Jobs",
+        "createLabel": "Ստեղծել նոր Job",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Job",
+        "notFound": "No Jobs found"
+      },
+      "created": "Նոր Job ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Job թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Job հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Job {{ id }}?"
+      },
+      "detail": {
+        "title": "Job"
+      },
+      "jobTitle": "Job Title",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "task": "Task",
+      "employee": "Employee"
+    }
+  }
+}
