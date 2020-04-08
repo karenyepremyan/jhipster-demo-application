@@ -1,0 +1,11 @@
+version: '2'
+services:
+  demoapplication-postgresql:
+    image: postgres:12.1
+    # volumes:
+    #     - ~/volumes/jhipster/DemoApplication/postgresql/:/var/lib/postgresql/data/
+    environment:
+      - POSTGRES_USER=DemoApplication
+      - POSTGRES_PASSWORD=
+    ports:
+      - 5432:5432
